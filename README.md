@@ -1,3 +1,5 @@
+# Our Team won the Application's track competition on May 26th with a cash price of $25,000!!!
+
 # Go Code Colorado (2022) Team Health Oasis
 Contest sponsored and organized by the Colorado Secretary of State Jena Griswold
 
